@@ -19,10 +19,4 @@ A web application for reviewing movies and TV shows. Users can create accounts, 
 - **Database:** PostgreSQL  
 - **Version Control:** Git & GitHub  
 
----
 
-## 🚀 Installation & Setup  
-
-### **1️⃣ Clone the Repository**  
-```sh
-git clone https://github.com/wigneshh/Movie-Review.git
