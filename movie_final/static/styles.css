@@ -68,7 +68,7 @@ button {
 }
 
 .search-bar input {
-    padding: 7%;
+    padding: 8px;
     width: 300px; /* Adjust this value as needed */
     max-width: 100%; /* Ensure it is responsive */
 }
