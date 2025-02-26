@@ -1,6 +1,6 @@
 # 🎬 Movie Review Hub  
 
-A web application for reviewing movies and TV shows. Users can create accounts, log in, add reviews, search for reviews, and filter them by genres or titles.  
+A web application for reviewing movies and TV shows. Users can create accounts, log in, add reviews, search for reviews, and filter them by genres.
 
 ---
 
