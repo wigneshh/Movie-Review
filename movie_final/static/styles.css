@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #1c1c1c; /* Dark background */
+    color: white; /* Text color */
+}
+
+header {
+    background-color: #333; /* Header background */
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    color: white; /* Navigation link color */
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+.form-container {
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #222; /* Form background */
+    border-radius: 5px;
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin: 10px 0 5px;
+    text-align: left;
+}
+
+input, select, textarea {
+    padding: 8px;
+    border: 1px solid #666; /* Input border color */
+    border-radius: 4px;
+}
+
+button {
+    margin-top: 15px;
+    padding: 10px;
+    background-color: #ff4500; /* Button background color */
+    color: white; /* Button text color */
+    border: none;
+    cursor: pointer;
+}
+
+.add-review, .reviews-list {
+    width: 60%;
+    margin: 20px auto;
+    padding: 15px;
+    background-color: #222; /* Section background */
+    border-radius: 5px;
+}
+
+.movie-card, .review-card {
+    background-color: #444; /* Review card background */
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+.search-bar input {
+    padding: 8px;
+    width: 300px; /* Adjust this value as needed */
+    max-width: 100%; /* Ensure it is responsive */
+}
+
+.search-bar
+{
+    text-align: center;
+    margin: 20px;
+}
